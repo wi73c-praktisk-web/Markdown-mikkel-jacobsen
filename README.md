@@ -1,4 +1,4 @@
-# Sådan oprettes en ny Repositorie
+# Sådan oprettes en ny Repository
 
 ## Fremgangsmåde:
 
